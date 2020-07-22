@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a Computer Engineer I'm focused on web delevelopment specialy on Backend usigin <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20">
+
+I have experience on <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"> <img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="python" width="20" height="20"> <img src ="https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"> <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="20" height="20"> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"> <img src = "https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css" width="20" height="20"> <img src= "https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html" width="20" height="20"> <img src= "https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="html" width="20" height="20"> <img src= "https://konpa.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="html" width="20" height="20">
 <!--
 **leonardoAlonso/leonardoAlonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
