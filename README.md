@@ -1,6 +1,6 @@
 ### `<Hello world/>` 👋 
 
-I'm a Computer Engineer graduated from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logo_Instituto_Polit%C3%A9cnico_Nacional.png/1200px-Logo_Instituto_Polit%C3%A9cnico_Nacional.png" width="30" height="30"/>
+I'm a Computer Engineer graduated from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logo_Instituto_Polit%C3%A9cnico_Nacional.png/1200px-Logo_Instituto_Polit%C3%A9cnico_Nacional.png" width="40" height="30"/>
 
 I'm focused on web delevelopment specialy on Backend usigin <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="30" height="30"/> :snake:
 
