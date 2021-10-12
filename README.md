@@ -10,4 +10,6 @@ I have experience on <img src="https://img.icons8.com/color/48/000000/python.png
 - 🔭 I’m currently working on [Ben&Frank](benandfrank.com) as a backend developer working in Odoo
 - 📫 How to reach me: [Facebook](https://www.facebook.com/leonardo.alonsososa1/) [Twitter](https://twitter.com/LeoADev) [Linkedin](https://www.linkedin.com/in/leonardo-alonso-baa8b0109/)
 
+[![wakatime](https://wakatime.com/badge/user/75941234-035f-475b-8ee3-887fded41ebc.svg)](https://wakatime.com/@75941234-035f-475b-8ee3-887fded41ebc)
+
 Icons By <a href=" icons8.com">icons8</a>
