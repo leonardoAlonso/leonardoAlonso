@@ -8,7 +8,7 @@ I have experience on <img src="https://img.icons8.com/color/48/000000/python.png
 
 
 - 🔭 I’m currently working on [Ben&Frank](benandfrank.com) as a backend developer working in Odoo
-- 📫 How to reach me: [Facebook](https://www.facebook.com/leonardo.alonsososa1/) [Twitter](https://twitter.com/LeoADev) [Linkedin](https://www.linkedin.com/in/leonardo-alonso-baa8b0109/)
+- 📫 How to contact me: [Facebook](https://www.facebook.com/leonardo.alonsososa1/) [Twitter](https://twitter.com/LeoADev) [Linkedin](https://www.linkedin.com/in/leonardo-alonso-baa8b0109/) [website](https://leonardoalonso.github.io/leo-portfolio/)
 
 [![wakatime](https://wakatime.com/badge/user/75941234-035f-475b-8ee3-887fded41ebc.svg)](https://wakatime.com/@75941234-035f-475b-8ee3-887fded41ebc)
 
