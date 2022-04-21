@@ -4,7 +4,7 @@ Hi 👋 My name is Leonardo David Alonso Sosa
 Software Engineer
 -----------------
 
-I'm a Computer Engineer graduated from IPN, I'm specialized in backend development but I do not have to make frontend.
+I'm a Computer Engineer graduated from IPN, I'm specialized in backend development but I do not have problems to make frontend.
 
 * 🌍  I'm based in Mexico City
 * 🖥️  See my portfolio at [My portfolio](http://leonardoalonso.github.io/leo-portfolio/)
