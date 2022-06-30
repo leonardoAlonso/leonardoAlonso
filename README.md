@@ -44,7 +44,6 @@ I'm a Computer Engineer graduated from IPN, I'm specialized in backend developme
 
 <a href="http://www.github.com/leonardoAlonso"><img src="https://github-readme-stats.vercel.app/api?username=leonardoAlonso&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="leonardoAlonso's GitHub stats" /></a>
 
-<a href="http://www.github.com/leonardoAlonso"><img src="https://activity-graph.herokuapp.com/graph?username=leonardoAlonso&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 [![wakatime](https://wakatime.com/badge/user/75941234-035f-475b-8ee3-887fded41ebc.svg)](https://wakatime.com/@75941234-035f-475b-8ee3-887fded41ebc)
 
