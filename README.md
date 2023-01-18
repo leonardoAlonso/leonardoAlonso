@@ -44,11 +44,4 @@ I'm a Computer Engineer graduated from IPN, I'm specialized in backend developme
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/leonardoAlonso"><img src="https://github-readme-stats.vercel.app/api?username=leonardoAlonso&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="leonardoAlonso's GitHub stats" /></a>
-
-
 [![wakatime](https://wakatime.com/badge/user/75941234-035f-475b-8ee3-887fded41ebc.svg)](https://wakatime.com/@75941234-035f-475b-8ee3-887fded41ebc)
-
-
